@@ -7,3 +7,7 @@
 ### Using only two mapping functions
 1. `mapStateToProps`
 2. `mapDispatchToProps`
+
+### What does the `connect function`
+* is a `Higher Order Function`
+* returns a `Higher Order Component`
