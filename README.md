@@ -8,6 +8,6 @@
 1. `mapStateToProps`
 2. `mapDispatchToProps`
 
-### What does the `connect function`
+### What is a `connect function`?
 * is a `Higher Order Function`
 * returns a `Higher Order Component`
