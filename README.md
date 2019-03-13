@@ -9,5 +9,6 @@
 2. `mapDispatchToProps`
 
 ### What is a `connect function`?
-* is a `Higher Order Function`
-* returns a `Higher Order Component`
+> * is a `Higher Order Function`
+> * returns a `Higher Order Component`
+> * when the `Higher Order Component` is returned, it returns a `Container Component`
